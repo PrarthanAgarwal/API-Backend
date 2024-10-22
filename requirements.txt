@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose[cryptography]
+python-multipart
+authlib
+httpx
+slowapi
+itsdangerous
